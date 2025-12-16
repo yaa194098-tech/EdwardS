@@ -74,37 +74,6 @@ Skills & Tools
 • Microsoft Cloud products: 0365, Defender. 2 years helped if needed.
 • macOS Endpoint Engineering, helped if needed.
 
-Career profile https://www.linkedin.com/in/edwards-engineer, resume in word.doc.
-
-MAD Security LLC | Security Consultant | Woodlawn, MD | Feb 2015 – Jun 2015
-• Deployed RedSeal for network visualization; closed critical CMS configuration gaps
-Skills: RedSeal, Vulnerability Management, POA&Ms, and Risk matrix.
-
-Softworld, Inc. | Group Policy Consultant | Columbia, MD | Mar 2014 – Feb 2015
-• Migrated legacy login scripts to Group Policy Preferences; restructured global AD groups
-Skills: GPOs, moving GPOs to a new domain.
-
-OBXTek | Social Security Administration HQ | Expert Security Engineer | Woodlawn MD | Sep 2012 – Mar 2014
-• Authored FDCC/NIST configuration guides; coordinated CAT patching and GPO Administration
-Skills: POA&M’s and Risk matrix, GPO Administration, FDCC Templates.
-
-Aligned Development Strategies | Cyber Security Specialist | Baltimore, MD | Jan 2012 – Sep 2012
-• Generated cross-OS vulnerability reports for 19 data centers; improved patch compliance 
-Skills: POA&M’s and Risk matrix, GPO Administration, FDCC Templates.
-
-OBXTek | Social Security Administration HQ |Expert Security Engineer | Woodlawn, MD | December 2011 – January 2012
-• Managed GPOs across twelve domains; watched AD security controls and helped agency-wide patch rollouts. Skills: POA&M’s and Risk matrix, GPO Administration, FDCC Templates, NIST Compliance.
-
-MicroTech LLC | Social Security Administration HQ | Senior Windows Security Engineer | Woodlawn, MD | Aug 2007 – Dec 2011
-• Secured 128,000+ endpoints; authored NIST/FDCC documentation; enhanced patch governance
-Skills: POA&M’s and Risk matrix, GPO Administration, FDCC Templates.
-
-Dryden Oil Castrol | Network Administrator | Baltimore, MD | Mar 1995 – Jul 1998
-• Administered NT4/Win95 networks across sixteen sites; rolled out software and performed advanced diagnostics. Skills: LAN/WAN Support, Windows NT4.0
-
-Kemper National Services | Support Technician | Ft. Lauderdale, FL | Mar 1991 – Sep 1993
-• Provided Novell and Windows LAN/WAN troubleshooting and maintenance support.
-Skills: Novell Networking, Legacy Windows Systems
-
 Certifications & Clearance
 • Public Trust Clearance (SSA HQ, since 2007) – willing to undergo new investigation
+
