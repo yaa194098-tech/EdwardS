@@ -1,15 +1,13 @@
 Edward Spaay: GitHub profile: https://github.com/yaa194098-tech/Edwardspaay, email: yaa194098@gmail.com
 Signal app: Edward2708.26
 
-Senior IT Security & Infrastructure Engineer | CIS/NIST/STIGs | GPO Hardening Expert | ServiceNow & Tenable.sc/io Vulnerability Management | recent role 9 years as a PMP for nine technologies.	
-Since June 2025, I have been posting consistently every week twice after concluding a 9-year, 5-month role in Washington D.C. financial firm due to a reduction in force. Currently, I am sharpening my skills to pivot to AI.
+18+ yrs Infrastructure Security | OS Hardening | AD GPOs | Compliance | CIS/NIST/STIG | Risk Mgmt. | POA&M | 9+ yrs PMP 9 technologies | ServiceNow | AI Security Pivot
 
-Dynamic IT security professional with 18 years of direct ability in Windows OS hardening, enterprise compliance, and GPO administration, and CIS, NIST, STIGs recommendations, backed by 34 years total IT experience. 
+Since June 2025, I have been posting consistently every week twice after concluding a 9-year, 5-month role in Washington D.C. financial firm due to a reduction in force. Currently, I am sharpening my skills to pivot to AI.
 
 15 years as a contractor client was “Social Security Administration HQs” Woodlawn, MD on the security team. Rick freedman was my manager. Active Directory GPO administration, CIS, NIST, STIGs recommendations.
 
-Proven record of architecting and deploying security controls using CIS Benchmarks and NIST frameworks, driving remediation cycles 30% faster, and sustaining 100% compliance across distributed environments.
-Adept at leading cross-functional teams, improving infrastructure security posture, and translating technical depth into measurable business value. 
+Proven record of architecting and deploying security controls using CIS Benchmarks and NIST frameworks, driving remediation cycles 30% faster, and sustaining 100% compliance across distributed environments. Adept at leading cross-functional teams, improving infrastructure security posture, and translating technical depth into measurable business value. 
 
 Ready to start. 
 Based in Sykesville, MD (MD/Annapolis, DC, VA within 40 mi) | Remote • Hybrid • On-Site, part time, W2.
@@ -76,4 +74,3 @@ Skills & Tools
 
 Certifications & Clearance
 • Public Trust Clearance (SSA HQ, since 2007) – willing to undergo new investigation
-
