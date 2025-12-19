@@ -1,7 +1,7 @@
 Edward Spaay: GitHub profile: https://github.com/yaa194098-tech/Edwardspaay, email: yaa194098@gmail.com
 Signal app: Edward2708.26
 
-18+ yrs Infrastructure Security | OS Hardening | AD GPOs | Compliance | CIS/NIST/STIG | Risk Mgmt. | POA&M | 9+ yrs PMP 9 technologies | ServiceNow | AI Security Pivot
+Infrastructure Security Leader | Pivoting into AI Security & Compliance | CIS/NIST/STIG | Risk Management | PMP #AISecurity, #ResponsibleAI, #Compliance
 
 Since June 2025, I have been posting consistently every week twice after concluding a 9-year, 5-month role in Washington D.C. financial firm due to a reduction in force. Currently, I am sharpening my skills to pivot to AI.
 
@@ -9,7 +9,6 @@ Since June 2025, I have been posting consistently every week twice after conclud
 
 Proven record of architecting and deploying security controls using CIS Benchmarks and NIST frameworks, driving remediation cycles 30% faster, and sustaining 100% compliance across distributed environments. Adept at leading cross-functional teams, improving infrastructure security posture, and translating technical depth into measurable business value. 
 
-Ready to start. 
 Based in Sykesville, MD (MD/Annapolis, DC, VA within 40 mi) | Remote • Hybrid • On-Site, part time, W2.
 Let’s connect to explore how I can strengthen your security posture and drive compliance excellence.
 
@@ -74,3 +73,4 @@ Skills & Tools
 
 Certifications & Clearance
 • Public Trust Clearance (SSA HQ, since 2007) – willing to undergo new investigation
+
