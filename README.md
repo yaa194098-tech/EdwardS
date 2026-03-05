@@ -4,7 +4,7 @@ Proven expertise in OS hardening. Pivoting to AI Security & Compliance.
 
 3/3/26 "At this moment "CISSP Certicate"
 
-Feb 16, 2026 - Pivoting my skills to AI, the next 120 days
+Updated plans April, 2026 - Pivoting my skills to AI, the next 120 days
 
 ✅ Phase 1: Core Foundations (Start First) Copilot for Microsoft 365
 Focus: Productivity features, integration with Office apps.
