@@ -1,5 +1,5 @@
 
-Infra. Sec. Eng. 24+ yrs securing federal and enterprise envs. Extensive expertise in AD hardening, Vuln. Mgmt. and comp. frameworks (CIS, NIST, STIG). Currently pursuing CISSP cert while expanding into AI Sec. & Comp.
+Infrastructure Sececurity Engineer 24+ years securing federal and enterprise environments. Extensive expertise in Active Directory hardening, Vulnerability Managament and CompLiance frameworks (CIS, NIST, STIG). Currently pursuing CISSP certifcate while expanding into AI Security and Compliance.
 
 3/3/26 "At this moment "CISSP Certicate"
 
