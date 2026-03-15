@@ -1,6 +1,5 @@
 
-24+ yrs GPO’s mgt. CIS/NIST/STIGs for Compliance. recently 9+ yrs Tenable, ServiceNow via compliance 100% passing, lead 9 technologies as PMP. 
-Proven expertise in OS hardening. Pivoting to AI Security & Compliance.
+Infra. Sec. Eng. 24+ yrs securing federal and enterprise envs. Extensive expertise in AD hardening, Vuln. Mgmt. and comp. frameworks (CIS, NIST, STIG). Currently pursuing CISSP cert while expanding into AI Sec. & Comp.
 
 3/3/26 "At this moment "CISSP Certicate"
 
