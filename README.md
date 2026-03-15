@@ -1,7 +1,7 @@
 
 Infrastructure Sececurity Engineer 24+ years securing federal and enterprise environments. Extensive expertise in Active Directory hardening, Vulnerability Managament and CompLiance frameworks (CIS, NIST, STIG). Currently pursuing CISSP certifcate while expanding into AI Security and Compliance.
 
-3/3/26 "At this moment "CISSP Certicate"
+3/3/26 "At this moment "CISSP Certificate".
 
 Updated plans April, 2026 - Pivoting my skills to AI, the next 120 days
 
