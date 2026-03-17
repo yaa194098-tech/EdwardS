@@ -1,9 +1,11 @@
+Professional Summary
+Recent, Senior Engineer Infrastructure Configuration who led a 9+ years of OS hardening program across nine enterprise technologies, coordinating closely with Enterprise Security and platform owners to implement CIS, NIST, DISA STIG, and best practice control frameworks. Served as the primary administrator for critical Windows devices, architecting and enforcing security baselines that protected high value systems while supporting reliable operations. Self-taught became the company new SME for Apple Mac’s for 6 years: OS hardening, author of all instructions for the Service Desk and marketing group users, 14 devices.
 
-Infrastructure Sececurity Engineer 24+ years securing federal and enterprise environments. Extensive expertise in Active Directory hardening, Vulnerability Managament and CompLiance frameworks (CIS, NIST, STIG). Currently pursuing CISSP certifcate while expanding into AI Security and Compliance.
+Earlier, 14+ years/ contractor engineered AD/GPO driven security and CIS/NIST implementation across around 100,000 servers at the Social Security Administration, consistently kept across new contracts and recognized with an SSA Associate Commissioner’s Citation for critical patch deployment work.
 
 3/3/26 "At this moment "CISSP Certificate".
 
-Updated plans April, 2026 - Pivoting my skills to AI, the next 120 days
+3/17/26 paused for now "plans April, 2026 - Pivoting my skills to AI, the next 120 days"
 
 ✅ Phase 1: Core Foundations (Start First) Copilot for Microsoft 365
 Focus: Productivity features, integration with Office apps.
