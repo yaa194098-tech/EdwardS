@@ -1,9 +1,21 @@
 Professional Summary
 
-Security architect and senior security engineer with 18+ years of experience securing enterprise Windows infrastructure, Active Directory / Group Policy environments, and regulated platforms across commercial retirement services and large federal operations. Known for leading hardening and compliance programs across nine technologies, partnering with Enterprise Security and platform owners, driving 100% control adherence, and reducing high-risk vulnerability exposure through Tenable, Wiz, and ServiceNow remediation workflows. Deep background in CIS, NIST, DISA STIG, FISMA, security baselines, audit readiness, and cross-functional technical leadership, with added direct macOS hardening ability.
+I am a cybersecurity and infrastructure security professional focused on hardening enterprise platforms, improving security control maturity, and reducing operational risk through scalable standards-based execution.
 
-Security Architecture, Infrastructure Security, Enterprise Hardening, Active Directory, Group Policy, Windows Server, Identity & Access Management, Least Privilege, Privileged Access, Security Baselines, Vulnerability Management, Tenable.sc, Tenable.io, Wiz, ServiceNow, CIS Benchmarks, NIST, DISA STIG, FISMA, Audit & Compliance, Risk Remediation, Zero Trust, Technical Documentation, macOS Hardening, Security Operations.
+My background is strongest in OS hardening, endpoint security, and compliance alignment, with hands-on experience supporting enterprise environments through frameworks including CIS, NIST, and STIG. In my recent role as Senior Engineer, Infrastructure Configuration, I helped drive security control implementation across 9 technologies, contributing to 100% compliance through structured hardening, governance alignment, and close coordination with Enterprise Security and infrastructure stakeholders.
 
-3/3/26 "At this moment "CISSP Certificate".
+Core strengths include:
 
-3/17/26 paused for now "plans April, 2026 - Pivoting my skills to AI, the next 120 days"
+infrastructure and endpoint hardening
+Windows security and AD GPO control enforcement
+macOS hardening expertise
+Tenable and ServiceNow-driven security operations support
+standards-based compliance execution
+cross-functional security partnership
+
+I am most effective in roles that require strong control discipline, enterprise thinking, and the ability to convert complex security requirements into sustainable operational outcomes.
+
+I am currently focused on opportunities in Security Architecture, Infrastructure Security, Endpoint Security, and Enterprise Security Architecture, and I am also building toward future work in AI Security Governance.
+
+I welcome connections with recruiters and leaders seeking a senior candidate who combines technical depth, compliance rigor, and enterprise-scale security execution.
+
