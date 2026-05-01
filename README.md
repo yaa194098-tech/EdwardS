@@ -1,21 +1,33 @@
-Professional Summary
+Infrastructure Security Architect | AD/GPO | CIS/NIST/STIG | Tenable | ServiceNow | 100% Compliance | Risk Reduction Leader. Led enterprise security architecture/hardening across 9 technologies in a financial environment
 
-I am a cybersecurity and infrastructure security professional focused on hardening enterprise platforms, improving security control maturity, and reducing operational risk through scalable standards-based execution.
+Infrastructure Security Engineer with 18+ years of experience securing enterprise environments through OS hardening, Active Directory/GPO engineering, and compliance frameworks including CIS, NIST, and DISA STIG.
 
-My background is strongest in OS hardening, endpoint security, and compliance alignment, with hands-on experience supporting enterprise environments through frameworks including CIS, NIST, and STIG. In my recent role as Senior Engineer, Infrastructure Configuration, I helped drive security control implementation across 9 technologies, contributing to 100% compliance through structured hardening, governance alignment, and close coordination with Enterprise Security and infrastructure stakeholders.
+I specialize in:
+- Designing and enforcing enterprise security baselines
+- Achieving 100% compliance across regulated environments
+- Reducing vulnerability risk by 30%+ using Tenable and structured remediation workflows
+- Integrating ServiceNow for full lifecycle tracking and audit readiness
 
-Core strengths include:
+My background includes securing large-scale infrastructures (100,000+ servers across federal environments) and partnering with enterprise security teams to align infrastructure with risk management strategies.
 
-infrastructure and endpoint hardening
-Windows security and AD GPO control enforcement
-macOS hardening expertise
-Tenable and ServiceNow-driven security operations support
-standards-based compliance execution
-cross-functional security partnership
+Currently exploring opportunities in:
+- Infrastructure Security
+- Security Engineering
+- Security Architecture
+- Endpoint & Compliance Engineering
 
-I am most effective in roles that require strong control discipline, enterprise thinking, and the ability to convert complex security requirements into sustainable operational outcomes.
+Open to full-time and contract roles.
 
-I am currently focused on opportunities in Security Architecture, Infrastructure Security, Endpoint Security, and Enterprise Security Architecture, and I am also building toward future work in AI Security Governance.
+SKILLS SECTION:
 
-I welcome connections with recruiters and leaders seeking a senior candidate who combines technical depth, compliance rigor, and enterprise-scale security execution.
-
+Active Directory Security
+Group Policy (GPO)
+CIS Benchmarks
+NIST
+DISA STIG
+Tenable
+ServiceNow
+Vulnerability Management
+OS Hardening
+Endpoint Security
+Apple MAC SME 6 yrs
