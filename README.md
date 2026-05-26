@@ -1,4 +1,4 @@
-Infrastructure Security Architect | AD/GPO | CIS/NIST/STIG | Tenable | ServiceNow | 100% Compliance | Risk Reduction Leader. Led enterprise security architecture/hardening across 9 technologies in a financial environment for 9 years.
+Infrastructure Security | AD/GPO | CIS/NIST/STIG | Tenable | ServiceNow | 100% Compliance | Risk Reduction Leader. Led enterprise security architecture/hardening across 9 technologies in a financial environment for 9 years.
 
 Infrastructure Security Engineer with 18+ years of experience securing enterprise environments through OS hardening, Active Directory/GPO engineering, and compliance frameworks including CIS, NIST, and DISA STIG.
 
