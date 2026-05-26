@@ -12,11 +12,15 @@ My background includes securing large-scale infrastructures (100,000+ servers ac
 
 Currently exploring opportunities in:
 - Infrastructure Security
+- Vulnerability Managament Engineer
+- Security Systems Engineer
+- Security Manager
+- Baseline Hardening
 - Security Engineering
 - Security Architecture
 - Endpoint & Compliance Engineering
 
-Open to full-time and contract roles.
+Open to full-time and contract roles. MD,PA, VA, DC
 
 SKILLS SECTION:
 
