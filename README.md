@@ -24,14 +24,14 @@ Open to full-time and contract roles. MD, PA, VA, DC
 
 SKILLS SECTION:
 
-Active Directory Security
-Group Policy (GPO)
-CIS Benchmarks
-NIST
-DISA STIG
-Tenable
-ServiceNow
-Vulnerability Management
-OS Hardening
-Endpoint Security
-Apple MAC SME 6 yrs
+Active Directory Security 20 yrs
+Group Policy Management (GPO) 20 yrs
+CIS Benchmarks 20 yrs
+NIST 20 yrs
+DISA STIG 20 yrs
+Tenable 9+ yrs
+ServiceNow 9+ yrs
+Vulnerability Management 20 yrs
+OS Hardening 20 yrs
+Endpoint Security 9+
+Apple MAC SME 6 yrs 
