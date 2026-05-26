@@ -20,7 +20,7 @@ Currently exploring opportunities in:
 - Security Architecture
 - Endpoint & Compliance Engineering
 
-Open to full-time and contract roles. MD,PA, VA, DC
+Open to full-time and contract roles. MD, PA, VA, DC
 
 SKILLS SECTION:
 
