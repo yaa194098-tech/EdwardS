@@ -1,6 +1,4 @@
-Infrastructure Security | AD/GPO | CIS/NIST/STIG | Tenable | ServiceNow | 100% Compliance | Risk Reduction Leader. Led enterprise security architecture/hardening across 9 technologies in a financial environment for 9 years.
-
-Infrastructure Security Engineer with 18+ years of experience securing enterprise environments through OS hardening, Active Directory/GPO engineering, and compliance frameworks including CIS, NIST, and DISA STIG.
+I am an Senior Vulnerability Engineer / Vulnerability Management Architect with 20 years in enterprise hardening, vulnerability management, Active Directory/GPO security, CIS/NIST/DISA STIG compliance, Tenable scanning, and ServiceNow remediation workflows. I have led security baseline implementation across regulated financial and federal-scale environments, reduced vulnerability exposure through structured remediation, and improved audit readiness through repeatable control validation and evidence practices. I am targeting senior vulnerability management, infrastructure security, compliance engineering, and security architecture roles in remote, hybrid, MD/DC/VA, and public-trust environments.
 
 I specialize in:
 - Designing and enforcing enterprise security baselines
@@ -11,14 +9,13 @@ I specialize in:
 My background includes securing large-scale infrastructures (100,000+ servers across federal environments) and partnering with enterprise security teams to align infrastructure with risk management strategies.
 
 Currently exploring opportunities in:
-- Infrastructure Security
 - Vulnerability Managament Engineer
+- Infrastructure Security
 - Security Systems Engineer
 - Security Manager
 - Baseline Hardening
 - Security Engineering
 - Security Architecture
-- Endpoint & Compliance Engineering
 
 Open to full-time and contract roles. MD, PA, VA, DC
 
